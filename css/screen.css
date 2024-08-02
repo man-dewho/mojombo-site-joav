@@ -58,7 +58,7 @@ a:hover {
 
 /* Global Reset */
 
-* {
+/* {
   margin: 0;
   padding: 0;
 }
@@ -109,7 +109,7 @@ table {
 /*
 /*****************************************************************************/
 
-ul.posts {
+/*ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
 }
@@ -130,7 +130,7 @@ ul.posts {
 /*
 /*****************************************************************************/
 
-.site {
+/*.site {
   font-size: 110%;
   text-align: justify;
   width: 42em;
@@ -200,13 +200,13 @@ ul.posts {
 /*
 /*****************************************************************************/
 
-#post {
+/*#post {
 
 }
 
   /* standard */
 
-  #post pre {
+ /* #post pre {
     border: 1px solid #ddd;
     background-color: #eef;
     padding: 0 .4em;
@@ -235,7 +235,7 @@ ul.posts {
 
   /* terminal */
 
-  #post pre.terminal {
+/*  #post pre.terminal {
     border: 1px solid black;
     background-color: #333;
     color: white;
